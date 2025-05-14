@@ -1,0 +1,6 @@
+@api_bulk_fill_v2_HostAddress = http://localhost:5117
+
+GET {{api_bulk_fill_v2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
